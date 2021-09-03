@@ -1,0 +1,11 @@
+https://www.youtube.com/watch?v=ZiYdOwOrGyc
+	Coding Challenge #57: Mapping Earthquake Data
+	The Coding Train - https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw
+
+https://eoimages.gsfc.nasa.gov/images/imagerecords/74000/74493/world.topo.200411.3x5400x2700.jpg
+	https://visibleearth.nasa.gov/collection/1484/blue-marble
+
+https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series
+	https://github.com/CSSEGISandData/COVID-19/commits?author=CSSEGISandData
+
+Robinson Rojas
